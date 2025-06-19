@@ -1,6 +1,6 @@
 # 🧠 LangChain Learning Tasks for week 3 at AlgoCas Internship
 
-This repository contains a set of hands-on tasks designed to explore and demonstrate the capabilities of **LangChain** — a powerful framework for developing applications with Large Language Models (LLMs). Each task is organized in its own folder and focuses on a different core concept of the LangChain ecosystem.
+This repository contains a set of hands-on tasks designed to explore and demonstrate the capabilities of **LangChain** — a powerful framework for developing applications with Large Language Models (LLMs). Each task is organized in its own notebook and focuses on a different core concept of the LangChain ecosystem.
 
 ---
 
@@ -12,7 +12,7 @@ This repository contains a set of hands-on tasks designed to explore and demonst
 - 📚 Learn prompt engineering and chain configuration basics.
 
 ### 🔹 Task 2: LangChain Tools (Search & Calculator)
-- 🔍 Use built-in LangChain tools like **Web Search** and **Calculator**.
+- 🔍 Use built-in LangChain tools like **Search** and **Calculator**.
 - 📄 Apply them to **Excel** and **PDF** documents.
 - ⚙️ Practice integrating agents with tool-based reasoning.
 
