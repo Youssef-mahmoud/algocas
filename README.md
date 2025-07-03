@@ -51,5 +51,24 @@ This repository contains hands-on tasks exploring the capabilities of **LangChai
 
 ---
 
-🔗 **Note:** Each notebook builds progressively toward agentic, context-aware, document-grounded LLM apps.
+### 🟠 Week 5
+
+#### 🔹 Task 1 & 2: Multi-User Conversational System
+- 👥 Build a **multi-user conversational system**.
+- 🗃️ Handle **User ID management** and store conversation history **per user**.
+- 📁 File: `Task 1&2.ipynb`
+
+#### 🔹 Task 3: OCR Text Extraction System
+- 🖼️ Build a system to **extract text from images**.
+- 🤖 Integrate OCR pipelines for document understanding.
+- 📁 File: `Task 3.ipynb`
+
+#### 🔹 Task 4: LangChain Q&A on OCR Output
+- ❓ Use text extracted with OCR as context for **LangChain Q&A**.
+- 🧠 Build applications combining **vision + LLM reasoning**.
+- 📁 File: `Task 4.ipynb`
+
+---
+
+🔗 **Note:** Each notebook builds progressively toward agentic, multi-user, multimodal LLM applications for real-world deployment.
 
