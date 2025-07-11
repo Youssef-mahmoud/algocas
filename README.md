@@ -69,6 +69,26 @@ This repository contains hands-on tasks exploring the capabilities of **LangChai
 - 📁 File: `Task 4.ipynb`
 
 ---
+### 🔴 Week 6
 
-🔗 **Note:** Each notebook builds progressively toward agentic, multi-user, multimodal LLM applications for real-world deployment.
+#### 🔹 Task 2.1: Qwen OCR on Colab
+- 🖼️ Test **Qwen models** for OCR tasks in Colab.
+- 📄 Generate text outputs from images efficiently.
+- 📁 File: `Task 2.1 Qwen_OCR.ipynb`
+
+#### 🔹 Task 2.2: LangChain Integration with Qwen OCR
+- 🔗 Integrate **Qwen OCR outputs** with LangChain locally.
+- 🧠 Build end-to-end pipelines combining **vision and LLM reasoning**.
+- 📁 File: `Task 2.2 LangChain_Qwen.ipynb`
+
+
+---
+
+📁 **Folder Structure:**
+- `Qwen/Output/`: Contains subfolders per image with:
+  - Original image
+  - JSON output
+  - Used prompt
+
+---
 
