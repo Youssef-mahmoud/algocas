@@ -1,0 +1,123 @@
+{
+  "account_details": {
+    "account_holder_name": "NASEER AHMAD",
+    "account_number": "65574",
+    "iban_number": "AE84 0240 0299 2004 6395 901",
+    "currency": "AED",
+    "account_type": "CURRENT ACCOUNT",
+    "branch": "DUBAI WATERFRONT MARKET BRANCH",
+    "statement_period_from": "24/01/2021",
+    "statement_period_to": "24/01/2022"
+  },
+  "transactions": [
+    {
+      "transaction_date": "01/10/2021",
+      "value_date": "01/10/2021",
+      "cheque_ref_no": "029885F212741037",
+      "description": "SMS CHARGES SEP-2021",
+      "debit": "",
+      "credit": "5.25",
+      "balance": "45,414.53"
+    },
+    {
+      "transaction_date": "01/10/2021",
+      "value_date": "01/10/2021",
+      "cheque_ref_no": "99700gp212745610",
+      "description": "ELECTRON DEBIT CARD TRANSACTION: EPPCO SITE -36 DUBAI",
+      "debit": "60.00",
+      "credit": "",
+      "balance": "45,429.28"
+    },
+    {
+      "transaction_date": "01/10/2021",
+      "value_date": "01/10/2021",
+      "cheque_ref_no": "99700gp212745618",
+      "description": "ELECTRON DEBIT CARD TRANSACTION: ABU DHABI TRANSPORT",
+      "debit": "50.00",
+      "credit": "",
+      "balance": "45,479.28"
+    },
+    {
+      "transaction_date": "01/10/2021",
+      "value_date": "01/10/2021",
+      "cheque_ref_no": "99700gp212745626",
+      "description": "ELECTRON DEBIT CARD TRANSACTION: UNITED HYPERMARKET DUBAI",
+      "debit": "22.45",
+      "credit": "",
+      "balance": "45,456.83"
+    },
+    {
+      "transaction_date": "01/10/2021",
+      "value_date": "01/10/2021",
+      "cheque_ref_no": "010086212776509",
+      "description": "ELECTRON DEBIT CARD TRANSACTION: EMARAT 0725 AL SAFIYAH DUBAI",
+      "debit": "100.00",
+      "credit": "",
+      "balance": "45,556.83"
+    },
+    {
+      "transaction_date": "04/10/2021",
+      "value_date": "04/10/2021",
+      "cheque_ref_no": "99700co212772494",
+      "description": "ELECTRON DEBIT CARD TRANSACTION: UNION COOP DUBAI",
+      "debit": "3.75",
+      "credit": "",
+      "balance": "45,553.08"
+    },
+    {
+      "transaction_date": "04/10/2021",
+      "value_date": "04/10/2021",
+      "cheque_ref_no": "99700co212772492",
+      "description": "ELECTRON DEBIT CARD TRANSACTION: UNITED HYPERMARKET QUAIRI",
+      "debit": "18.50",
+      "credit": "",
+      "balance": "45,534.58"
+    },
+    {
+      "transaction_date": "04/10/2021",
+      "value_date": "04/10/2021",
+      "cheque_ref_no": "99705vm212771463",
+      "description": "VISA CARD PAYMENT",
+      "debit": "",
+      "credit": "59.22",
+      "balance": "45,075.36"
+    },
+    {
+      "transaction_date": "06/10/2021",
+      "value_date": "06/10/2021",
+      "cheque_ref_no": "997001h212797930",
+      "description": "ELECTRON DEBIT CARD TRANSACTION: EMARAT 0725 AL SAFIYAH DUBAI",
+      "debit": "100.00",
+      "credit": "",
+      "balance": "45,575.36"
+    },
+    {
+      "transaction_date": "06/10/2021",
+      "value_date": "06/10/2021",
+      "cheque_ref_no": "997001h212797938",
+      "description": "ELECTRON DEBIT CARD TRANSACTION: NATIONAL PARKING COMPANY SHARJAH AE",
+      "debit": "27.00",
+      "credit": "",
+      "balance": "45,498.36"
+    },
+    {
+      "transaction_date": "06/10/2021",
+      "value_date": "06/10/2021",
+      "cheque_ref_no": "997001h212797946",
+      "description": "ELECTRON DEBIT CARD TRANSACTION: UNITED HYPERMARKET QUAIRI",
+      "debit": "26.56",
+      "credit": "",
+      "balance": "45,471.80"
+    },
+    {
+      "transaction_date": "06/10/2021",
+      "value_date": "06/10/2021",
+      "cheque_ref_no": "997001h212798754",
+      "description": "ELECTRON DEBIT CARD TRANSACTION: UNITED HYPERMARKET DUBAI",
+      "debit": "4.95",
+      "credit": "",
+      "balance": "45,466.85"
+    }
+  ],
+  "notes": "• Unless we receive a claim from your side within 15 days this statement will be considered correct.\n• (--) DENOTES DEBIT BALANCE\nPLEASE INFORM US BY WRITING IF THERE IS ANY CHANGE IN YOUR ADDRESS."
+}
